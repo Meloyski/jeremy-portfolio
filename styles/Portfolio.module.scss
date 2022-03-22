@@ -1,0 +1,16 @@
+.portfolio-item {
+  &--hero {
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+
+  &--title {
+    color: white;
+    font-size: 120px;
+    font-weight: 900;
+  }
+}
